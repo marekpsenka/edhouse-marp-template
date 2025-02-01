@@ -2,7 +2,9 @@
 marp: true
 footer: %Výchozí zápatí, které se objeví na každém slidu%
 ---
-
+<!-- Barvou nadpisů první a druhé úrovně je _tmavá zelená_ z vizuálního stylu
+používaného do r. 2025. Nová tmavá zelená je na většíně projektorů špatně vidět.
+Často málo kontrastuje s bílou -->
 <style>
 img[alt~="logo"] {
   position: absolute;
