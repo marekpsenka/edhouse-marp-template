@@ -9,6 +9,10 @@
 3. Zbytek instrukcí najdeš v dokumentaci [Marp extension](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode)
 4. Možnosti syntaxe se dozvíš na stránkách [Marpit](https://marpit.marp.app/)
 
+### Poznámka
+
+Repozitář edhouse-marp-template je šablona (*"repository template"*). Použij *"use this template"* tlačítko pro vytvoření vlastního repozitáře s prezentací, např. *my-dotnet-presentation*.
+
 ## Máš nápady na vylepšení?
 
 Jsou dvě možnosti jak nápad předložit
@@ -18,5 +22,5 @@ Jsou dvě možnosti jak nápad předložit
 
 ## Různé informace
 
-* Barvou nadpisů první a druhé úrovně je _tmavá zelená_ z vizuálního stylu
+* Barvou nadpisů první a druhé úrovně je *tmavá zelená* z vizuálního stylu
 používaného do r. 2025. Nová tmavá zelená je na většíně projektorů špatně vidět na bílém pozadí kvůli nízkému kontrastu.
