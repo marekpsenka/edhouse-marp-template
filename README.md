@@ -1,6 +1,6 @@
 # Edhouse Marp Template
 
-Šablona slidů v Edhouse stylu pro [Marp](https://github.com/marp-team/marp/) - ekosystému pro prezentace z Markdownu
+Šablona slidů v Edhouse stylu pro [Marp](https://github.com/marp-team/marp/) - ekosystému pro prezentace z Markdownu.
 
 ## Jak na to?
 
